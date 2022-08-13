@@ -308,7 +308,7 @@ h2 {
 
 .hero .hero-image {
   position: relative;
-  background: url(https://raw.githubusercontent.com/MohamedAridah/frontendmentor_easybank-landing-page/main/images/bg-intro-mobile.svg)
+  background: url(assets/img/mockup-bg.svg)
     no-repeat center/cover;
   min-height: 17.5rem;
 }
